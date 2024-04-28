@@ -7,7 +7,7 @@ function Contact() {
             <h2 className="text-lg text-gray-500 pr-20 mt-5 mb-5">Feel free to reach out to us for any inquiries or assistance. Our dedicated team is here to make your selling experience smooth and hassle-free.</h2>
             <div className="flex items-center justify-center p-12">
                 <div className="mx-auto w-full max-w-[550px]">
-                    <form action="https://formbold.com/s/3OKbj" method="POST">
+                    <form action="https://formbold.com/s/3njrd" method="POST">
                         <div className="mb-5">
                             <label
                                 htmlFor="name"
